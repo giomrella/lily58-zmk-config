@@ -57,10 +57,10 @@
 // |  | TAB |     |      |      |      |        |  |       |  -    |    =    |    [    |    ]   |   \   |       |
 //                |      |      |      |        |  |       |       |         |         |
 			bindings = <
-&trans  &trans    &trans &trans  &trans  &trans                      &trans      &trans         &trans        &trans        &trans    &trans
-&trans  &kp N1    &kp N2 &kp N3  &kp N4  &kp N5                      &kp N6      &kp N7         &kp N8        &kp N9        &kp N0    &trans
-&trans  &kp GRAVE &trans &trans  &trans  &trans                      &mt HM LEFT &mt PG_DN DOWN &mt PG_UP UP  &mt END RIGHT &kp SQT   &trans
-&trans  &kp TAB   &trans &trans  &trans  &trans    &trans   &trans   &kp MINUS   &kp EQUAL      &kp LBKT      &kp RBKT      &kp BSLH  &trans
+&trans  &trans    &trans &trans  &trans  &trans                      &trans        &trans         &trans        &trans        &trans    &trans
+&trans  &kp N1    &kp N2 &kp N3  &kp N4  &kp N5                      &kp N6        &kp N7         &kp N8        &kp N9        &kp N0    &trans
+&trans  &kp GRAVE &trans &trans  &trans  &trans                      &mt HOME LEFT &mt PG_DN DOWN &mt PG_UP UP  &mt END RIGHT &kp SQT   &trans
+&trans  &kp TAB   &trans &trans  &trans  &trans    &trans   &trans   &kp MINUS     &kp EQUAL      &kp LBKT      &kp RBKT      &kp BSLH  &trans
                         &trans  &trans  &trans  &trans   &trans     &trans      &trans    &trans
 			>;
 
